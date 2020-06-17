@@ -1,0 +1,18 @@
+{
+    "idleHeartbeats": 682,
+    "navigatingHeartbeats": 230,
+    "totalCodingHeartbeats": 1021,
+    "languageHeartbeats": {
+        "json": 65,
+        "javascript": 942,
+        "plaintext": 14
+    },
+    "fileHeartbeats": {
+        "package.json": 65,
+        "config/mongoose.js": 48,
+        "index.js": 366,
+        "dB/User.js": 21,
+        "dB/dbuser.js": 507,
+        "Untitled-1": 14
+    }
+}
